@@ -1,5 +1,4 @@
-# Desvelo-en-el-Campus-3-al-cubo
-# Desvelo-en-el-Campus-3-al-cubo
+
 # 📚💤 Desvelo en el Campus 💤📚
 
 Este es un proyecto para la cátedra **Desarrollo de Aplicaciones Multimediales**, de la carrera **Lic. en Diseño y Producción Multimedial** *(Dictada por Patricio Pedersoli)*.
@@ -8,7 +7,7 @@ Este es un proyecto para la cátedra **Desarrollo de Aplicaciones Multimediales*
 
 # Game Design Document (GDD)
 
-![Imagen del juego](ruta-de-tu-imagen.png)
+
 
 | Característica | Detalle |
 | :--- | :--- |
@@ -153,5 +152,6 @@ El enfoque central del juego es la persecución, la lectura de patrones y la eva
 ### Diagrama de flujo representativo.
 ---
 
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d74822-02fb-451c-87f5-47b492b49580" />
 
-![alt text](image.png)
+
