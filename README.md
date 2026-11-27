@@ -1,6 +1,9 @@
 
 # 📚💤 Desvelo en el Campus 💤📚
 
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/ce480404-fef5-4905-bcd2-2a2e52c07699" />
+
+
 Este es un proyecto para la cátedra **Desarrollo de Aplicaciones Multimediales**, de la carrera **Lic. en Diseño y Producción Multimedial** *(Dictada por Patricio Pedersoli)*.
 
 ---
