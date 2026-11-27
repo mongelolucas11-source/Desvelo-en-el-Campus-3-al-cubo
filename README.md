@@ -157,4 +157,24 @@ El enfoque central del juego es la persecución, la lectura de patrones y la eva
 
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/a1d74822-02fb-451c-87f5-47b492b49580" />
 
+### Prompts utilizados
+---
+1.Necesito hacer un personaje que se mueva estilo binding of isaac en GODOT, ayudame con los pasos luego te pedire el script.
+
+2.Ahora dame el script del movimiento del personaje.
+
+3.Hagamos las paredes de la habitacion con static body.
+
+4.Ahora necesito programar enemigos, uno que siga al pj y que el juego vuelva a empezar cuando lo agarran.
+
+5.Como podria mejorar el codigo del enemigo aveces se queda trabado en partes.
+
+6.Si quiero ponerle una animacion para cuando camine, uso el animation player? Como lo programo bien?
+
+
+
+
+
+
+
 
